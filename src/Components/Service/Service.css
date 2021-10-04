@@ -1,0 +1,12 @@
+.orange {
+  color: orange;
+}
+.span-bg {
+  background-color: rgb(170, 122, 122);
+}
+
+.image-s {
+  height: 230px;
+  width: 300px;
+  padding: 10px;
+}

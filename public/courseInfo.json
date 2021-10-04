@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "instructor": "Slade",
+    "course": "The Web Developer Bootcamp Course",
+    "fee": 623,
+    "students": 4570,
+    "image": "https://images.pexels.com/photos/5926382/pexels-photo-5926382.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "level": "Advanced",
+    "duration": 5.8,
+    "lectures": 58,
+    "rating": 3
+  },
+
+  {
+    "id": 2,
+    "instructor": "Birch",
+    "course": "Python Programming Courses",
+    "fee": 676,
+    "students": 4916,
+    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHl0aG9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "level": "Beginner",
+    "duration": 6.6,
+    "lectures": 98,
+    "rating": 5
+  },
+
+  {
+    "id": 3,
+    "instructor": "Naoma",
+    "course": "Introduction to Javascript for Beginners",
+    "fee": 502,
+    "students": 4469,
+    "image": "https://media.istockphoto.com/photos/3d-rendering-of-advertising-banner-for-javascript-online-course-of-picture-id1224135218?b=1&k=20&m=1224135218&s=170667a&w=0&h=-1dx19YjQRSi5cPi_D-2zKgL4hPK4sIUUPlw5QSRc9I=",
+    "level": "Beginner",
+    "duration": 8.7,
+    "lectures": 86,
+    "rating": 5
+  },
+
+  {
+    "id": 4,
+    "instructor": "Axel",
+    "course": "User Experience Design Course",
+    "fee": 603,
+    "students": 4887,
+    "image": "https://media.istockphoto.com/photos/word-composed-with-colorful-abc-alphabet-letters-copy-space-picture-id1315234062?b=1&k=20&m=1315234062&s=170667a&w=0&h=0HTTZobD4KsUmnBVRynSOeaHzHauiN9AfJNh-LP1QWc=",
+    "level": "Intermediate",
+    "duration": 6.7,
+    "lectures": 86,
+    "rating": 4
+  },
+
+  {
+    "id": 5,
+    "instructor": "Erma",
+    "course": "Advance PHP with laravel",
+    "fee": 691,
+    "students": 3369,
+    "image": "https://media.istockphoto.com/photos/yellow-crane-arranging-the-write-php-3d-rendering-illustration-picture-id1278260682?b=1&k=20&m=1278260682&s=170667a&w=0&h=N0dRrU1DOrSRur0DMNg_Y017f6wSMttMlcpyq8i5d-Q=",
+    "level": "Advanced",
+    "duration": 9.3,
+    "lectures": 68,
+    "rating": 3
+  },
+
+  {
+    "id": 6,
+    "instructor": "Cecile",
+    "course": "Master in Web Design Course",
+    "fee": 625,
+    "students": 2431,
+    "image": "https://images.pexels.com/photos/326501/pexels-photo-326501.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "level": "Advanced",
+    "duration": 6.4,
+    "lectures": 82,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "instructor": "Alexander",
+    "course": "Data Science and ML with Python",
+    "fee": 507,
+    "students": 3091,
+    "image": "https://media.istockphoto.com/photos/data-scientists-male-programmer-using-laptop-analyzing-and-developing-picture-id1295900106?b=1&k=20&m=1295900106&s=170667a&w=0&h=kQ2UWilU4Bild5aP03CaF65gMbSI-chG--7dd2oS8GM=",
+    "level": "Intermediate",
+    "duration": 9.7,
+    "lectures": 55,
+    "rating": 5
+  },
+
+  {
+    "id": 8,
+    "instructor": "Teddie",
+    "course": "Mastering in Graphic Design ",
+    "fee": 529,
+    "students": 4595,
+    "image": "https://media.istockphoto.com/photos/graphic-design-studio-picture-id899635470?b=1&k=20&m=899635470&s=170667a&w=0&h=phb1MqZz1ue081X5f1Tl0I1dn3OpR6uv4cAFl8bdTqU=",
+    "level": "Advanced",
+    "duration": 9.1,
+    "lectures": 57,
+    "rating": 3
+  },
+
+  {
+    "id": 9,
+    "instructor": "Kizzie",
+    "course": "Amazing Color Schemes for Your UX Design",
+    "fee": 346,
+    "students": 3816,
+    "image": "https://images.unsplash.com/photo-1587355760421-b9de3226a046?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dXglMjBkZXNpZ258ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "level": "Intermediate",
+    "duration": 5.1,
+    "lectures": 67,
+    "rating": 5
+  },
+
+  {
+    "id": 10,
+    "instructor": "Erminie",
+    "course": "Fashion Photography From Professional",
+    "fee": 615,
+    "students": 3736,
+    "image": "https://images.unsplash.com/photo-1516843882936-fc08647e0ccf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG9ncmFwaHklMjBjb3Vyc2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "level": "Intermediate",
+    "duration": 7.3,
+    "lectures": 63,
+    "rating": 5
+  },
+
+  {
+    "id": 11,
+    "instructor": "Urbanus",
+    "course": "Adobe XD Prototyping Tips and Tricks",
+    "fee": 635,
+    "students": 4253,
+    "image": "https://images.unsplash.com/photo-1547027072-332f09bd6bb3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWRvYmUlMjB4ZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "level": "Beginner",
+    "duration": 8.3,
+    "lectures": 63,
+    "rating": 3
+  },
+
+  {
+    "id": 12,
+    "instructor": "Ryan",
+    "course": "Design Instruments for Communication",
+    "fee": 606,
+    "students": 1882,
+    "image": "https://media.istockphoto.com/photos/cooperation-is-the-key-for-success-picture-id1173117797?b=1&k=20&m=1173117797&s=170667a&w=0&h=gEo3fp5tnucc7HLgCpGg-mPdgUnlE5M0yYMEg0qaGkc=",
+    "level": "Beginner",
+    "duration": 8.5,
+    "lectures": 83,
+    "rating": 3
+  }
+]
