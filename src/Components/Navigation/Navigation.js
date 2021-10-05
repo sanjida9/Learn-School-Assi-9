@@ -8,7 +8,8 @@ const Navigation = () => {
     color: "orange",
   };
   return (
-    <nav className=" sticky-top navbar navbar-expand-lg navbar-dark bg-dark navStyle p-3">
+    //navigation bar
+    <nav className=" sticky-top navbar fs-5 navbar-expand-lg navbar-dark bg-dark navStyle p-3">
       <div className="container-fluid container mx-auto">
         <h1 className="text-white">
           <i>

@@ -1,8 +1,3 @@
-.mainDiv {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 15px;
-}
 .bg-1 {
   background-color: rgb(252, 218, 235);
 }
@@ -15,14 +10,14 @@
 .bg-4 {
   background-color: #d3c8ec;
 }
-.bg-5 {
-  background-color: #abf5f7;
-}
 .bg-6 {
-  background-color: #f3b4e1;
+  background-color: #f1ffd2;
+}
+.bg-5 {
+  background-color: #f8c8eb;
 }
 .bg-7 {
-  background-color: #e2f8e9;
+  background-color: #fce6b7;
 }
 .bg-8 {
   background-color: rgb(243, 209, 230);

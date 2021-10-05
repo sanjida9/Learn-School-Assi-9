@@ -11,6 +11,7 @@ import Category from "./Components/Category/Category";
 function App() {
   return (
     <div>
+      {/* Route set up here */}
       <BrowserRouter>
         <Navigation></Navigation>
         <Switch>

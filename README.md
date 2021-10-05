@@ -1,6 +1,6 @@
 # <h1>Learning School</h1>
 
-# <p>https://upbeat-jennings-94b9f9.netlify.app/category</p>
+# <h3>https://upbeat-jennings-94b9f9.netlify.app/category</h3>
 
 # <ul>
 

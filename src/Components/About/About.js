@@ -1,34 +1,37 @@
 import React from "react";
 import "./About.css";
-import about from "../../images/about-us.jpg";
 import about2 from "../../images/about2.png";
 import about3 from "../../images/about3.jpg";
 
 const About = () => {
   return (
-    <div>
-      <div className="text-center">
-        <img className="img-fluid p-5" width="500px" src={about} alt="" />
+    <div className="bg">
+      <div className="text-center p-5">
+        <h1>
+          <i>About Us</i>
+        </h1>
       </div>
 
-      <div className="container bg d-flex align-items-center justify-content-between p-5 mb-5">
+      <div className="container shadow bg-light rounded d-flex align-items-center justify-content-between p-5 mb-5">
         <div>
           <h1>What We Do & Our Aim</h1>
           <p></p>
-          <h4>
-            <i class="fas fa-hand-point-right"></i> Full lifetime access
-          </h4>
-          <h4>
-            <i class="fas fa-hand-point-right"></i> 20+ downloadable resources
-          </h4>
-          <h4>
-            <i class="fas fa-hand-point-right"></i> Certificate of completion
-          </h4>
-          <h4>
-            <i class="fas fa-hand-point-right"></i> Free Trial 7 Days
-          </h4>
+          <h5>
+            <i className="fas fa-hand-point-right"></i> Full lifetime access
+          </h5>
+          <h5>
+            <i className="fas fa-hand-point-right"></i> 20+ downloadable
+            resources
+          </h5>
+          <h5>
+            <i className="fas fa-hand-point-right"></i> Certificate of
+            completion
+          </h5>
+          <h5>
+            <i className="fas fa-hand-point-right"></i> Free Trial 7 Days
+          </h5>
           <div>
-            <button className="btn-secondary px-4 py-2 m-1 border-0 fw-bold text-white">
+            <button className="btn-secondary rounded px-4 py-2 m-1 border-0 fw-bold text-white">
               Enroll Today
             </button>
           </div>
@@ -38,19 +41,32 @@ const About = () => {
         </div>
       </div>
 
-      <div className="d-flex container bg align-items-center justify-content-md-between p-5 rounded mb-3">
+      <div className="d-flex container bg-light shadow rounded align-items-center justify-content-md-between p-5 rounded mb-5">
         <div>
           <h3>Become A Instructor?</h3>
-          <h1>You can join with us as a instructor</h1>
+          <h1>You can join with us as a instructor...</h1>
         </div>
         <div className="ms-2">
-          <button className="btn-secondary px-4 py-2 m-1 border-0 fw-bold text-white">
+          <button className="btn-secondary rounded px-4 py-2 m-1 border-0 fw-bold text-white">
             Drop Information
           </button>
         </div>
       </div>
-      <div className="text-center">
-        <img width="400px" className="img-fluid" src={about3} alt="" />
+      <div className="text-center"></div>
+
+      <div className="d-flex container bg-light shadow rounded align-items-center justify-content-md-between p-5 rounded mb-0">
+        <div>
+          <img className="img-fluid" src={about3} alt="" />
+        </div>
+        <div className="ms-2 ps-3">
+          <h2>What are the benefits of group work?</h2>
+          <h6>
+            “More hands make for lighter work.” “Two heads are better than one.”
+            “The more the merrier.” These adages speak to the potential groups
+            have to be more productive, creative, and motivated than individuals
+            on their own.
+          </h6>
+        </div>
       </div>
     </div>
   );

@@ -6,7 +6,8 @@ const HomeService = (props) => {
     props.service;
   return (
     <div className="col-md-6 mb-3 container">
-      <div className="shadow card-des">
+      {/*single card portion in Home*/}
+      <div className="shadow card-hover card-width">
         <img
           src={image}
           className="mx-auto img-fluid d-block image"

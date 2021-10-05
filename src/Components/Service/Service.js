@@ -5,11 +5,12 @@ const Service = (props) => {
   const { course, instructor, fee, students, image, level, duration } =
     props.service;
   return (
+    //single service card portion
     <div className="col-md-4">
-      <div className="shadow card-h mx-4 size my-3">
+      <div className="shadow card-hover mx-4 size my-3">
         <img
           src={image}
-          className="mx-auto img-fluid d-block image-s"
+          className="mx-auto img-fluid d-block image-size"
           alt="..."
         />
         <span className="span-bg text-white p-1 ms-3 rounded">
